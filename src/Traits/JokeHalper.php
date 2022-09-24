@@ -1,6 +1,6 @@
 <?php
 
-namespace Ibnudirsan\Jokedev;
+namespace Ibnudirsan\Jokedev\Traits;
 
 use GuzzleHttp\Client;
 
