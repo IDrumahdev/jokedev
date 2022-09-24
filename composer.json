@@ -1,0 +1,19 @@
+{
+    "name": "ibnudirsan/jokedev",
+    "description": "This package is only for learning API hits https://icanhazdadjoke.com",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ibnudirsan\\Jokedev\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ibnudirsan",
+            "email": "ibnudirsan@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
